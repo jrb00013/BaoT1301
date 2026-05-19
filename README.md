@@ -113,7 +113,7 @@ Hello World! ![](https://user-images.githubusercontent.com/18350557/176309783-07
 <div align="left">
 <div align="left">
 
-# 💬 Let's Connect!
+# 💬 Let's Connect
 
 <p align="left">
   <a href="https://linkedin.com/in/baot1301"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a> 
