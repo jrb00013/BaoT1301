@@ -15,7 +15,6 @@ Hello World! ![](https://user-images.githubusercontent.com/18350557/176309783-07
 - **`Software Engineer Fellow`** @ **Handshake**
 - **`AI Extern`** @ **Extern**
 - **`Technical Lead`** @ **Google Developer Group GMU**
-- **`Google for Developers Program`** @ **Google**
 - **`Cloud Developer`** @ **PatriotHacks**
 
 ## Highlights
