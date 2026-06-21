@@ -12,6 +12,7 @@ Hello World! ![](https://user-images.githubusercontent.com/18350557/176309783-07
 - **`AI System and Automation Intern`** @ **Hemut (YC X25)**
 - **`Software Engineer Intern`** @ **Ellucian**
 - **`Engineering Extern`** @ **Todd**
+- **`Incoming`** @ **YC Startup School 2026**
 - **`Fouding Engineer`** @ **Deepiri**
 - **`Software Engineer Fellow`** @ **Handshake**
 - **`AI Extern`** @ **Extern**
