@@ -12,7 +12,7 @@ Hello World! ![](https://user-images.githubusercontent.com/18350557/176309783-07
 - **`GTM & AI`** @ **Hemut (YC X25)**
 - **`Builder Fellow`** @ **Deep24 (YC W24)**
 - **`Software Engineer Intern`** @ **Ellucian**
-- **`Engineering Extern`** @ **Todd**
+- **`Software Engineer Extern`** @ **Todd**
 - **`Fouding Engineer`** @ **Deepiri**
 - **`Incoming`** @ **YC Startup School 2026**
 - **`Software Engineer Fellow`** @ **Handshake**
