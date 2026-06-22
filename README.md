@@ -28,7 +28,7 @@ Hello World! ![](https://user-images.githubusercontent.com/18350557/176309783-07
 
 
 
-# 💻 **`Tech Stack`**:
+# **`Tech Stack`**:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -103,7 +103,7 @@ Hello World! ![](https://user-images.githubusercontent.com/18350557/176309783-07
 
 <br>
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 <br clear="both"/>
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=BaoT1301&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="165" />
@@ -114,7 +114,7 @@ Hello World! ![](https://user-images.githubusercontent.com/18350557/176309783-07
 <div align="left">
 <div align="left">
 
-# 💬 Let's Connect!
+# Let's Connect!
 
 <p align="left">
   <a href="https://linkedin.com/in/baot1301"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a> 
