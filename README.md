@@ -14,7 +14,7 @@ Hello World! ![](https://user-images.githubusercontent.com/18350557/176309783-07
 - **`Software Engineer Intern`** @ **Ellucian**
 - **`Engineering Extern`** @ **Todd**
 - **`Fouding Engineer`** @ **Deepiri**
-- - **`Incoming`** @ **YC Startup School 2026**
+- **`Incoming`** @ **YC Startup School 2026**
 - **`Software Engineer Fellow`** @ **Handshake**
 - **`AI Extern`** @ **Extern**
 
