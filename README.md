@@ -9,7 +9,7 @@ Hello World! ![](https://user-images.githubusercontent.com/18350557/176309783-07
 
 ## Life
 - **`Computer Science`** at [**George Mason University**](https://www.gmu.edu/)
-- **`AI System and Automation Intern`** @ **Hemut (YC X25)**
+- **`GTM & AI** @ **Hemut (YC X25)**
 - **`Builder Fellow`** @ **Deep24 (YC W24)**
 - **`Software Engineer Intern`** @ **Ellucian**
 - **`Engineering Extern`** @ **Todd**
